@@ -1,6 +1,6 @@
 # Hello, World!
 
-- 🎯 I’m nowadays focused on Front-End Development
-- 🌱 Currently learning Javascript and React, and simultaneously working on my firsts real website projects.
-- 💬 Ask me about anything, I'm pleased to learn and share knowledges with you.
-- 📫 How to reach me: https://www.linkedin.com/in/tonylcb/
+- 🎯 Atualmente atuando em Desenvolvimento Front-End e UX/UI Design
+- 🌱 Desenvolvendo habilidades em Javascript e React, colocando os estudos em prática em meus primeiros projetos de websites
+- 💬 Pergunte-me qualquer coisa, será uma honra aprender e compartilhar conhecimentos com você :)
+- 📫 Contato: https://www.linkedin.com/in/tonylcb/
